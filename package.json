@@ -2,7 +2,7 @@
   "name": "monter-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jacorea.github.io/monster-rolodex",
+  "homepage": "https://jacorea.github.io/monster-rolodex",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
